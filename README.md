@@ -39,3 +39,6 @@ You can use docker-compose in this repo to just build and run Asterisk.
     along with this program.  If not, see http://www.gnu.org/licenses/.
 
 If you want to bring up both [kannel](https://github.com/antenehrepos/docker-kannel) and asterisk with docker-compose, please look at [this](https://github.com/antenehrepos/docker-telephony) repo.
+
+[![](https://images.microbadger.com/badges/image/antenehrepos/docker-asterisk.svg)](https://microbadger.com/images/antenehrepos/docker-asterisk "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/antenehrepos/docker-asterisk.svg)](https://microbadger.com/images/antenehrepos/docker-asterisk "Get your own version badge on microbadger.com")
