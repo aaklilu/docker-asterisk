@@ -3,8 +3,7 @@ version: "2"
 services:
 
   asterisk:
-    build: .
-    image: asterisk
+    image: antenehrepos/docker-asterisk
     container_name: asterisk
     ports:
       - "5060:5060"
